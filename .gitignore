@@ -1,0 +1,81 @@
+# ============================================================
+# Ashling RiscFree / Eclipse workspace
+# ============================================================
+**/riscfree-workspace/
+
+# Eclipse / IDE metadata
+.metadata/
+.settings/
+*.launch
+
+# ============================================================
+# Nios V software build outputs
+# ============================================================
+**/build/
+**/Debug/
+**/Release/
+
+# CMake generated files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/compile_commands.json
+
+# Compiled software
+*.o
+*.obj
+*.elf
+*.exe
+*.hex
+*.bin
+*.map
+*.lst
+*.a
+
+# ============================================================
+# Quartus generated files
+# ============================================================
+db/
+incremental_db/
+output_files/
+
+**/db/
+**/incremental_db/
+**/output_files/
+
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.htm
+*.html
+*.log
+*.jdi
+*.sld
+*.sof
+*.pof
+*.rbf
+
+# ============================================================
+# Platform Designer / generated IP
+# ============================================================
+**/generated/
+**/synthesis/
+**/simulation/
+
+# ============================================================
+# Temporary / editor files
+# ============================================================
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Windows
+# ============================================================
+desktop.ini

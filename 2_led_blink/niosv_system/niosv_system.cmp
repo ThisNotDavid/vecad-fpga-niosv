@@ -1,0 +1,8 @@
+	component niosv_system is
+		port (
+			clk_clk     : in  std_logic                    := 'X'; -- clk
+			ledg_export : out std_logic_vector(3 downto 0);        -- export
+			ledr_export : out std_logic_vector(3 downto 0)         -- export
+		);
+	end component niosv_system;
+

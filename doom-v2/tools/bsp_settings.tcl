@@ -1,0 +1,9 @@
+set_setting hal.stdin DEBUG
+set_setting hal.stdout DEBUG
+set_setting hal.stderr DEBUG
+set_setting hal.enable_reduced_device_drivers false
+set_setting hal.enable_lightweight_device_driver_api false
+set_setting hal.sys_clk_timer none
+set_setting hal.timestamp_timer none
+set_setting hal.linker.enable_alt_load false
+set_setting hal.linker.allow_code_at_reset false

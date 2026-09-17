@@ -1,0 +1,14 @@
+build/
+db/
+incremental_db/
+output_files/
+releases/
+*.qws
+__pycache__/
+*.pyc
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.qdf
+*.sld

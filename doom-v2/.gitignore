@@ -1,0 +1,17 @@
+build/
+archive/
+releases/
+*.bundle
+__pycache__/
+vendor/
+assets/*.wad
+assets/*.zip
+assets/freedoom-*/
+hardware/doom_system/
+hardware/*.sopcinfo
+hardware/components.ipx
+hardware/.qsys_edit/
+*.qws
+db/
+incremental_db/
+output_files/

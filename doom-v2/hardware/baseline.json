@@ -1,6 +1,0 @@
-{
-  "baseline": "C:\\FPGA\\vecad-fpga-niosv\\7_niosv_piece_control",
-  "cpu": "intel_niosv_g 4.0.0",
-  "clock_hz": 50000000,
-  "pin_source": "C:\\FPGA\\DE2-115_v.3.0.6_SystemCD\\DE2_115_demonstrations\\DE2_115_golden_top\\DE2_115_GOLDEN_TOP.qsf"
-}

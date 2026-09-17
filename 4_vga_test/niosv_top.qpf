@@ -1,0 +1,6 @@
+DATE = "11:18:33 September 08, 2026"
+QUARTUS_VERSION = "14.0"
+
+# Revisions
+
+PROJECT_REVISION = "niosv_top"
